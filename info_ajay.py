@@ -1,0 +1,10 @@
+a="Ajay"
+m1=23
+m2=45
+m3=87
+total=m1+m2+m3
+percentage=total/3
+print("name:-",a)
+print("marks:-",m1,m2,m3)
+print("total:-",total)
+print("percentage:-",percentage)
